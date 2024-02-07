@@ -1,2 +1,6 @@
+This is line 1 of example 1
+This is line 2 of example 2
+This is line 3 of example 3
+
 This is line1 of example1 in copy1 branch
 This is line2 of example1 in copy1 branch
