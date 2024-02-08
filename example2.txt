@@ -1,3 +1,2 @@
 This is line 1 of example 2
 This is line 2 of example 2
-This is line 3 of example 3
