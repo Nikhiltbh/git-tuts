@@ -1,9 +1,7 @@
-
 This is line 1 of example in copy1
 This is line 2 of example in copy1
 This is line 3 of example in copy1
 This is line 4 of example in copy1
-
 Hi nick whatsup boiii
 how are you doing
 
